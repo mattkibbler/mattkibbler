@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey! 👋
 
-<!--
-**mattkibbler/mattkibbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matt Kibbler
 
-Here are some ideas to get you started:
+I have just over 10 years experience in web and software development, for roughly the last six years I've been a core member of Solder Creative’s development team, delivering a wide range of digital products including websites, apps, and interactive installations. Some examples of these are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A tablet app to assist boaters complete with custom navigation system
+- Interactive installations built with Electron including a photo booth and touch-activated projections
+- A selection of data-driven applications built using Laravel with custom dashboard and APIs
+- A variety of static websites built with Astro
+- Cross-platform apps using Ionic/Capacitor and React Native
+- Content managed websites using CMS systems like CraftCMS
+
+My primary tech stack includes Laravel, PHP, and Vue.js with TypeScript along with anything else I can utilise to get the job done. These days I'm enjoying writing projects in Go and hope to do more.
