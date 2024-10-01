@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I'm Matt Kibbler
+I'm Matt Kibbler.
 
 I have just over 10 years experience in web and software development, for roughly the last six years I've been a core member of Solder Creative’s development team, delivering a wide range of digital products including websites, apps, and interactive installations. Some examples of these are:
 
