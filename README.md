@@ -4,6 +4,7 @@ I'm Matt Kibbler.
 
 I have around 14 years of experience in web and software development, for roughly the last six years I've been a core member of Solder Creative’s development team, delivering a wide range of digital products including websites, apps, and interactive installations. Some examples of these are:
 
+- The web UI and backend services for the [WATR](https://www.watr.tech) environmental monitoring platform
 - A tablet app to assist boaters complete with custom navigation system
 - Interactive installations built with Electron including a photo booth and touch-activated projections
 - A selection of data-driven applications built using Laravel with custom dashboard and APIs
